@@ -1,5 +1,5 @@
 0x16. C - Simple Shell
-s project develope a UNIX command line interpreter base in the sh shell.
+this project developed a UNIX command line interpreter base in the sh shell.
 
 Installation
 1. Clone the repository to your local files.
@@ -65,7 +65,7 @@ This project was developed without the use of most standard library functions. T
 
 Authors
 
-Oluwasheyi Makanjuola
+[Oluwasheyi Makanjuola](https://github.com/Mxcoded)
 
-JULIET JULIET
+[JULIET JULIET](https://github.com/abuchijuliet)
 
