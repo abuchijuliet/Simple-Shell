@@ -63,7 +63,7 @@ Check the Path for executable file
 Development
 This project was developed without the use of most standard library functions. The heart of the code is in system calls like write and read, and in the management of memory through allocation and liberation with malloc, free and pointers.
 
-Authors
+# Authors
 
 [Oluwasheyi Makanjuola](https://github.com/Mxcoded)
 
