@@ -114,7 +114,7 @@ void sisifo(char *prompt, data_of_program *data)
 				if (error_code != 0)
 					_print_error(error_code, data);
 			}
-			free_recurrent_data(data);
+			ree_recurrent_data(data);
 		}
 	}
 }
